@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+body > form
+{
+}
+.topbg .toplog .toplog h1 a {background-image:url(https://wwwfs.vghks.gov.tw/001/VghksUploadFiles/353/sites/pagebackimage/7c4adf7b-7af6-49f2-a7ba-9a2af7655ecf.png);background-position: center;background-repeat: no-repeat;}
+@media (min-width: 240px) and (max-width: 767px){	.topbg .toplog h1 a{ /*上方Logo-mobile*/		background-image: url(https://wwwfs.vghks.gov.tw/001/VghksUploadFiles/353/sites/pagebackimage/7c4adf7b-7af6-49f2-a7ba-9a2af7655ecf.png);		background-position: center;		background-repeat: no-repeat;	}}@media (min-width: 768px) and (max-width: 960px){		.topbg .toplog h1 a{ /*上方Logo-pad*/		background-image: url(https://wwwfs.vghks.gov.tw/001/VghksUploadFiles/353/sites/pagebackimage/7c4adf7b-7af6-49f2-a7ba-9a2af7655ecf.png);		background-position: center;		background-repeat: no-repeat;	}}
